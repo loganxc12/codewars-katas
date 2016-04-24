@@ -1,4 +1,6 @@
 //Still working on solution
+//Struggled for a little while until I realized the 'copy' array was
+//being passed by reference not by value.
 
 function whoIsNext(names, r){
   
